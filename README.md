@@ -6,3 +6,4 @@ test with some cahnge in diferents area
 some case to test
 # File index
 add some comment into the file
+is added an input into the file called name
