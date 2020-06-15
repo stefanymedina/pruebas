@@ -9,3 +9,5 @@ add some comment into the file
 is added an input into the file called name
 #body
 add text , test rebase
+teste solve conflict with git rebase
+
